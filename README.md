@@ -8,6 +8,7 @@ Here are some links to help get started with Pipeline as Code:
 (A similar presentation was given at the PathToAgility 2017 conference.  This version included
 some additional material related to managing pipelines at scale.  Following is a link to the
 GitHub organization for this presentation.)
+
 Building Delivery Pipelines with Jenkins' Pipeline as Code (PathToAgility 2017) - https://github.com/PathToAgilityJenkins
 
 ### Jenkins documentation
